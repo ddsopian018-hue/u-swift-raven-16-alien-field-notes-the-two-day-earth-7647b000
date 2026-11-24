@@ -16,6 +16,7 @@ import os
 # detail few entrants would reach (not traffic, gravity, money or weather).
 # One joke, landing at the end, with a verdict and a rating like a real
 # travel review.
+# Note: the line below is 197 characters of the 200 maximum.
 LINE = (
     "Dominant species picks up its pets' droppings in little bags and "
     "carries them home like treasure. Bizarre, polite, oddly touching. "
